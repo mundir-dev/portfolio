@@ -5,7 +5,11 @@
   Portfolio - v1
 </h1>
 
-# Getting Started with Create React App
+<p align="center">
+  Built with <a href="https://reactjs.org/" target="_blank">Reactjs</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+</p>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
