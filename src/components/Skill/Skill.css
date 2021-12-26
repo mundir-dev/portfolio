@@ -1,0 +1,22 @@
+.skill{
+    display: flex;
+    align-items: center;
+    background-color: #2C323D;
+    border: 2px solid #64FFDA;
+    border-radius: 15px;
+    padding: 20px;
+    width: 100%;
+    max-width: 255px;
+    margin: 20px;
+}
+
+.skill-badge img{
+   max-width: 30px;
+   margin-right: 10px;
+}
+
+.skill-name{
+    color: #64FFDA;
+    font-size: 20px;
+    font-weight: 400;
+}
